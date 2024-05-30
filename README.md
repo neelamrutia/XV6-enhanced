@@ -175,7 +175,6 @@ so cpu bounded process will be executed.
 
 - there is also Agging in the MLFQ scheduler so if the ticks of the process is more than 30 then we perform the priority boost and push that process in the queue which has one higher priority than the previous queue.
 
-I USED THE CODE FROM THE GIVEN LINKS FOR THE GIVEN TASKS IN THE PROJECT
 
 
 
